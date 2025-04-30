@@ -1,5 +1,5 @@
 545_Local (1) is the file for only data processing. <br>
-In 545_fp, we complete data processing, hypothesis testing and ER graph. <br>
+In 545_FP, we complete data processing, hypothesis testing and ER graph. <br>
 In 545_ER, it only includes our ERD. <br>
 Ecommerce_Delivery_Analytics_New.csv is the raw data. <br>
 In Ecommerce_With_Sentiment_GPU.csv, we convert customers' feedbacks to numerical features. <br>
